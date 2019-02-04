@@ -7,11 +7,31 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="build/main.css">
 
     <title>Matt REWAS</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+
+<header id="header">
+
+</header>
+
+<section id="{nazwa}">
+  <div class="container">
+
+  </div>
+</section>
+
+<section id="{nazwa}">
+  <div class="container">
+
+  </div>
+</section>
+
+<footer id="footer">
+
+</footer>
 
 
 

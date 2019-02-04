@@ -1,6 +1,26 @@
-body{
-    background: red;
-    p{
-        color: gold;
-    }
-}
+// template
+@import
+    "utils/variables.scss",
+    "utils/mixins.scss";
+
+
+// base
+@import 
+    "base/base.scss",
+    "base/typography.scss";
+
+// layout
+@import 
+    "layout/header.scss",
+    "layout/navbar.scss",
+    "layout/footer.scss";
+
+
+// /components
+    // @import 
+    //     "components/";
+
+
+// pages
+    // @import 
+    //     "pages/";
